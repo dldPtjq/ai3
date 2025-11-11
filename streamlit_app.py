@@ -72,7 +72,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["코로나는 2020년대를 혼란에 빠뜨린 병균입니다"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
+     "videos": ["https://www.youtube.com/watch?v=U9XJMWezy5k"]
      },
 }
 
