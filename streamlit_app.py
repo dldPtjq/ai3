@@ -68,12 +68,12 @@ st.markdown("---")
 # 각 라벨당 최대 3개씩 표시됩니다.
 # ======================
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
-    # 예)
-    # "짬뽕": {
-    #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+  
+     labels[0]: {
+       "texts": ["코로나는 2020년대를 혼란에 빠뜨린 병균입니다"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
-    # },
+     },
 }
 
 # ======================
