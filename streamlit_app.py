@@ -91,7 +91,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "texts": ["코로나는 질병입니다"],
        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.novartis.com%2Fkr-ko%2Fstories%2Fdiscovery%2Fnewsletter-6&psig=AOvVaw0xHw-QoeqPZiYxJLp126zW&ust=1763183699521000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPidzZzx8JADFQAAAAAdAAAAABAv"],
        "videos": ["https://www.youtube.com/watch?v=KHC5ixw5KmM"]
-     },    
+     },   
 }
 
 # ======================
