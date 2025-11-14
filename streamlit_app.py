@@ -74,6 +74,24 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EB%259F%25AC%25EC%258B%259C%25EC%2595%2584%25EC%259D%2598_%25EC%259A%25B0%25ED%2581%25AC%25EB%259D%25BC%25EC%259D%25B4%25EB%2582%2598_%25EC%25B9%25A8%25EA%25B3%25B5&psig=AOvVaw0-meKnkv-CMtPVOvJImGhq&ust=1763182497102000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiv-uPs8JADFQAAAAAdAAAAABAE"],
        "videos": ["https://www.youtube.com/watch?v=3ep2UEPgAvA"]
      },
+    
+     labels[1]: {
+       "texts": ["조선족은 중국의 소수민족입니다"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fstar.ohmynews.com%2FNWS_Web%2FOhmyStar%2Fat_pg.aspx%3FCNTN_CD%3DA0002367884&psig=AOvVaw3AZpil_5zVuAQV55ZnPF8w&ust=1763183539074000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOilxNDw8JADFQAAAAAdAAAAABAE"],
+       "videos": ["https://www.youtube.com/watch?v=-RZjneAx_eI"]
+     },  
+
+    labels[2]: {
+       "texts": ["캄보디아는 동남아시아에 위치한 나라입니다"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hanjin.com%2Fkor%2FCMS%2FContents%2FContents.do%3FmCode%3DMN164&psig=AOvVaw0ptbYHffW3_oDh_S5WCKmM&ust=1763183632943000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNj6zoDx8JADFQAAAAAdAAAAABAE"],
+       "videos": ["https://www.youtube.com/watch?v=CrPYwhlkb5c"]
+     },
+
+    labels[3]: {
+       "texts": ["코로나는 질병입니다"],
+       "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.novartis.com%2Fkr-ko%2Fstories%2Fdiscovery%2Fnewsletter-6&psig=AOvVaw0xHw-QoeqPZiYxJLp126zW&ust=1763183699521000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPidzZzx8JADFQAAAAAdAAAAABAv"],
+       "videos": ["https://www.youtube.com/watch?v=KHC5ixw5KmM"]
+     },    
 }
 
 # ======================
