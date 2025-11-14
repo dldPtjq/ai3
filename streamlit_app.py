@@ -74,7 +74,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EB%259F%25AC%25EC%258B%259C%25EC%2595%2584%25EC%259D%2598_%25EC%259A%25B0%25ED%2581%25AC%25EB%259D%25BC%25EC%259D%25B4%25EB%2582%2598_%25EC%25B9%25A8%25EA%25B3%25B5&psig=AOvVaw0-meKnkv-CMtPVOvJImGhq&ust=1763182497102000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiv-uPs8JADFQAAAAAdAAAAABAE"],
        "videos": ["https://www.youtube.com/watch?v=3ep2UEPgAvA"]
      },
-           
+
 # ======================
 # 유틸
 # ======================
